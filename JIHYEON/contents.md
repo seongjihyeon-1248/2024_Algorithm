@@ -2,7 +2,7 @@
 
 ## Algorithm
 
-참고: https://myeongmy.tistory.com/55
+참고: <!-- https://myeongmy.tistory.com/55 -->
 
 ### significant ⭐
 
