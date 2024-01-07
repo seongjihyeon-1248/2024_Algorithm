@@ -27,4 +27,4 @@
 
 ## schedule
 
-0107 / Baekjoon1000 / 백준 (예시)
+0108 / Baekjoon9012 / BAEKJOON
