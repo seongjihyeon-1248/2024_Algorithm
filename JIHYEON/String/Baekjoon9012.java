@@ -9,8 +9,9 @@ public class Baekjoon9012 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
  
-		int T = Integer.parseInt(br.readLine());
+		int T = Integer.parseInt(br.readLine()); // 줄 개수 T
  
+		//줄 마다 YES or No 판별
 		while (T-- > 0) {
 			sb.append(bracket(br.readLine())).append('\n');
 		}
@@ -24,6 +25,7 @@ public class Baekjoon9012 {
 			if (c == '(') {
 				count++;
 			}
+			//count가 0인데 닫는 괄호면 오류이므로 NO 바로 반환
 			else if (count == 0) {
 				return "NO";
 			}
