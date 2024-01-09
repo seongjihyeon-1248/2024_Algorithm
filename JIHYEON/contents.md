@@ -8,7 +8,7 @@
 
 * implementaion & Simulation
 * Bruteforcing
-* Graph traversal(BFS(queue)/DFS(stack))
+* Graph traversal & BFS(queue) & DFS(stack)
 
 ### main ✨
 
