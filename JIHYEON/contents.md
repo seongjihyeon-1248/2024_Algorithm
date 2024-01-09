@@ -19,11 +19,11 @@
 ### sub
 
 * String
-* Two-pointer
-* Priority Queue (Heap)
-* Set / Map By Hashing
 * Tree
+* Set / Map By Hashing
 * Backtracking
+* Priority Queue (Heap)
+* Two-pointer
 
 ## schedule
 
