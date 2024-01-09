@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Baekjoon9372",
+      "request": "launch",
+      "mainClass": "JIHYEON.Tree.Baekjoon9372",
+      "projectName": "2024_Algorithm_9989dcdb"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
