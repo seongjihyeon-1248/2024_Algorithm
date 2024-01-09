@@ -6,24 +6,24 @@
 
 ### significant ⭐
 
-* Simulation
-* Brute Force
-* DFS
-* BFS
+* implementaion & Simulation
+* Bruteforcing
+* Graph traversal(BFS(queue)/DFS(stack))
 
 ### main ✨
 
 * DP
 * Greedy
-* twopointer
 * BinarySearch
 
 ### sub
 
-* string
-* sort
+* String
+* Two-pointer
 * Priority Queue (Heap)
-* HashMap
+* Set / Map By Hashing
+* Tree
+* Backtracking
 
 ## schedule
 
