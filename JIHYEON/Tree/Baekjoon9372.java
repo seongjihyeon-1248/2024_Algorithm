@@ -7,6 +7,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//최소 신장 트리의 성질 이용하기
+//간선의 개수 = 정점의 개수 - 1
+
 public class Baekjoon9372 {
     public static void main(String args[]) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
