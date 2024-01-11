@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Baekjoon10816",
+      "request": "launch",
+      "mainClass": "JIHYEON.Set_and_Map_By_Hashing.Baekjoon10816",
+      "projectName": "2024_Algorithm_9989dcdb"
+    },
+    {
+      "type": "java",
       "name": "Baekjoon9372",
       "request": "launch",
       "mainClass": "JIHYEON.Tree.Baekjoon9372",
