@@ -19,13 +19,13 @@
 📝 커밋 메시지 컨벤션
 ```<type>: <subject>```
 
-<type> 양식
+type 양식
 ```
 * create (생성)
 * delete (삭제)
 * update (변경)
 ```
-<subject> 양식
+subject 양식
 ```
 문제풀이사이트_문제번호or문제이름
 ```
