@@ -1,6 +1,6 @@
 //https://www.acmicpc.net/problem/10816
 
-package JIHYEON.Set_and_Map_By_Hashing;
+package JIHYEON.Data_Structures;
 
 import java.io.BufferedReader;
 import java.io.IOException;
