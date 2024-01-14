@@ -6,7 +6,7 @@
 
 ### significant ⭐
 
-* implementaion
+* Implementaion
 * Data Structures
 * Graph Theory (BFS(queue) & DFS(stack))
 * Bruteforcing
