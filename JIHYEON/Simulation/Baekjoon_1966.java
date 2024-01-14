@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.LinkedList;
  
-public class Baekjoon1966 {
+public class Baekjoon_1966 {
 	public static void main(String[] args) throws IOException {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
