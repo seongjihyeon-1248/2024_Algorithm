@@ -4,26 +4,19 @@
 
 참고: <!-- https://myeongmy.tistory.com/55 -->
 
-### significant ⭐
+### main
 
-* Implementaion
+* Simulation
 * Data Structures
 * Graph Theory (BFS(queue) & DFS(stack))
 * Bruteforcing
 
-### main ✨
+### sub
 
 * Dynamic Programming
 * Greedy
 * String
 * Binary Search
-
-### sub
-
-* Tree
-* Simulation
-* Backtracking
-* Two-pointer
 
 ## schedule
 
