@@ -6,23 +6,23 @@
 
 ### significant ⭐
 
-* implementaion & Simulation
+* implementaion
+* Data Structures
+* Graph Theory (BFS(queue) & DFS(stack))
 * Bruteforcing
-* Graph traversal & BFS(queue) & DFS(stack)
 
 ### main ✨
 
-* DP
+* Dynamic Programming
 * Greedy
-* BinarySearch
+* String
+* Binary Search
 
 ### sub
 
-* String
 * Tree
-* Set / Map By Hashing
+* Simulation
 * Backtracking
-* Priority Queue (Heap)
 * Two-pointer
 
 ## schedule
