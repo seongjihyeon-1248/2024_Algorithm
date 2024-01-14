@@ -21,5 +21,4 @@
 ## schedule
 
 * 0108 / Baekjoon9012 / BAEKJOON
-* 0110 / Baekjoon9372 / BAEKJOON
 * 0112 / Baekjoon10816 / BAEKJOON
