@@ -25,5 +25,5 @@
 
 * 0114 / BAEKJOON / 1966
 * 0115 / BAEKJOON / 2839
-* 0116 / PROGRAMGERS / 가위 바위 보
-* 0117 / PROGRAMGERS / 제곱 수 판별하기
+* 0116 / PROGRAMMERS / 가위 바위 보
+* 0117 / PROGRAMMERS / 제곱 수 판별하기
