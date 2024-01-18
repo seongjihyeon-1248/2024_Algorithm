@@ -27,3 +27,4 @@
 * 0115 / BAEKJOON / 2839
 * 0116 / PROGRAMMERS / 가위 바위 보
 * 0117 / PROGRAMMERS / 제곱수 판별하기
+* 0118 / PROGRAMMERS / 문자열을 정수로 변환하기
