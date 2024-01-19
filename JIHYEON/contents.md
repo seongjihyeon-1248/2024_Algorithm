@@ -28,3 +28,4 @@
 * 0116 / PROGRAMMERS / 가위 바위 보
 * 0117 / PROGRAMMERS / 제곱수 판별하기
 * 0118 / PROGRAMMERS / 문자열을 정수로 변환하기
+* 0119 / PROGRAMMERS / n개 간격의 원소들
