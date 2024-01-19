@@ -20,7 +20,12 @@
 
 ## schedule
 
-* 0108 / Baekjoon9012 / BAEKJOON
-* 0112 / Baekjoon10816 / BAEKJOON
-* 0114 / Baekjoon1966 / BAEKJOON
-* 0115 / Baekjoon2839 / BAEKJOON
+* 0108 / BAEKJOON / 9012
+* 0112 / BAEKJOON / 10816
+
+* 0114 / BAEKJOON / 1966
+* 0115 / BAEKJOON / 2839
+* 0116 / PROGRAMMERS / 가위 바위 보
+* 0117 / PROGRAMMERS / 제곱수 판별하기
+* 0118 / PROGRAMMERS / 문자열을 정수로 변환하기
+* 0119 / PROGRAMMERS / n개 간격의 원소들
