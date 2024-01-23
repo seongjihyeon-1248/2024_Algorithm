@@ -19,13 +19,13 @@ public class Main {
         for(int i = 0; i < 4; i++)
             operator[i] = sc.nextInt();
 
-        bfs(1, operator, num[0]);
+        dfs(1, operator, num[0]);
         System.out.println(max + "\n" + min);
 
     }
 
-    public static void bfs(int start, int[] operator, int result) {
-        
+    public static void dfs(int start, int[] operator, int result) {
+
         // 연산자를 모두 사용한 경우 최대값, 최소값을 비교
         if((operator[0] + operator[1] + operator[2] + operator[3]) == 0) {
             if(max < result) max = result;
@@ -41,7 +41,7 @@ public class Main {
                 newOperator[i] -= 1;
 
                 // 재귀호출
-                bfs(start+1, newOperator, newResult);
+                dfs(start+1, newOperator, newResult);
             }
         }
     }
