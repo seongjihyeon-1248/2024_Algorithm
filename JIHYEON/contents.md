@@ -31,3 +31,5 @@
 * 0119 / PROGRAMMERS / n개 간격의 원소들
 
 * 0121 / PROGRAMMERS / 9로 나눈 나머지
+* 0122 / PROGRAMMERS / 짝수는 싫어요
+* 0124 / BAEKJOON / 1260
