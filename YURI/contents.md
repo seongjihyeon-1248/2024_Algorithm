@@ -8,5 +8,6 @@
 백준
 * 0119 baekjoon 14889 스타트와 링크 - 백트래킹(dfs)
 * 0123 baekjoon 14888 연산자 끼워넣기 - 백트래킹(dfs)
-* 0125 baekjoon 14501 퇴사 - 백트래킹(dfs), dp
+* 0125 baekjoon 14501 퇴사 - 백트래킹(dfs)
+* 0125 baekjoon 14501 퇴사 - dp
 * 0126 baekjoon 13458 시험 감독 - 연산
