@@ -33,3 +33,4 @@
 * 0121 / PROGRAMMERS / 9로 나눈 나머지
 * 0122 / PROGRAMMERS / 짝수는 싫어요
 * 0124 / BAEKJOON / 1260 (실버2)
+* 0126 / BAEKJOON / 1065 (실버4)
