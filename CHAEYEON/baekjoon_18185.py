@@ -33,4 +33,6 @@ for i in range(len(x)-2):
         buy_three(i)
         buy_two(i)
         buy_one(i)
+
 print(result)
+
