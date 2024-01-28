@@ -34,3 +34,5 @@
 * 0122 / PROGRAMMERS / 짝수는 싫어요
 * 0124 / BAEKJOON / 1260 (실버2)
 * 0126 / BAEKJOON / 1065 (실버4)
+
+* 0128 / PROGRAMMERS / 원소들의_곱과_합
