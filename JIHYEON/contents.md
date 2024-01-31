@@ -24,7 +24,7 @@
 * 0112 / BAEKJOON / 10816 (실버4)
 
 * 0114 / BAEKJOON / 1966 (실버3)
-* 0115 / BAEKJOON / 2839 (실버4)
+* 0115 / BAEKJOON / 2839 (실버4) ***Greedy***
 * 0116 / PROGRAMMERS / 가위 바위 보 (LV_0)
 * 0117 / PROGRAMMERS / 제곱수 판별하기 (LV_0)
 * 0118 / PROGRAMMERS / 문자열을 정수로 변환하기 (LV_0)
@@ -37,3 +37,4 @@
 
 * 0128 / PROGRAMMERS / 원소들의 곱과 합 (LV_0)
 * 0129 / PROGRAMMERS / 합성수 찾기 (LV_0)
+* 0131 / BAEKJOON / 2839 (실버4) ***DP***
