@@ -16,3 +16,8 @@
 * 0131 softeer 개표 - 구현 (level1)
 * 0131 softter Tren del Fin del Mundo - 구현 (level1)
 * 0131 softeer 연탄 배달의 시작 - 구현 (level1)
+* 0131 softeer 위험한 효도 (level1)
+* 0131 softeer 나무 심기 (level1)
+* 0131 softeer 근무 시간 (level1)
+* 0131 softeer X marks the Spot (leve2)
+* 0201 softeer 진정한 효도 (level2)
