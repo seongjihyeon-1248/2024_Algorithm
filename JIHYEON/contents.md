@@ -38,3 +38,4 @@
 * 0128 / PROGRAMMERS / 원소들의 곱과 합
 * 0129 / PROGRAMMERS / 합성수 찾기
 * 0131 / BAEKJOON / 🥈 IV 2839  ***DP***
+* 0202 / BAEKJOON / 🥈 IV 1920
