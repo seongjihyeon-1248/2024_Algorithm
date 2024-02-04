@@ -39,3 +39,5 @@
 * 0129 / PROGRAMMERS / 합성수 찾기
 * 0131 / BAEKJOON / 🥈 IV 2839  ***DP***
 * 0202 / BAEKJOON / 🥈 IV 1920
+
+* 0204 / PROGRAMMERS / 꼬리 문자열
