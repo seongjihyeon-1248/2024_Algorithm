@@ -20,7 +20,7 @@
 
 ## schedule
 
-* 0108 / BAEKJOON / 🥈 IV 9012
+* 0108 / BAEKJOON / 🥈 IV 9012 ***String***
 * 0112 / BAEKJOON / 🥈 IV 10816
 
 * 0114 / BAEKJOON / 🥈III 1966
@@ -43,3 +43,4 @@
 * 0204 / PROGRAMMERS / 꼬리 문자열
 * 0205 / PROGRAMMERS / 소문자로 바꾸기
 * 0207 / BAEKJOON / 🥈 IV 1244
+* 0209 / BAEKJOON / 🥈 IV 9012 ***Data Structures***
