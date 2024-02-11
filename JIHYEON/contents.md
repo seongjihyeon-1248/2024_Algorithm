@@ -46,3 +46,8 @@
 * 0209 / BAEKJOON / 🥈 IV 9012 ***Data Structures***
 
 * 0211 / PROGRAMMERS / 종이 자르기
+* 0212 / PROGRAMMERS / 평행
+
+![alt text](programmers_평행.png)
+
+level 0에서 3점이다...! (신기)(방기)
