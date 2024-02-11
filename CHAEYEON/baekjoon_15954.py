@@ -1,3 +1,6 @@
+# python으로 제출했을 때는 시간 초과
+# pypy3로 수정해야 함
+
 import sys
 import math
 
