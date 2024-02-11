@@ -44,3 +44,5 @@
 * 0205 / PROGRAMMERS / 소문자로 바꾸기
 * 0207 / BAEKJOON / 🥈 IV 1244
 * 0209 / BAEKJOON / 🥈 IV 9012 ***Data Structures***
+
+* 0211 / PROGRAMMERS / 종이 자르기
