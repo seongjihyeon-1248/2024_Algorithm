@@ -12,6 +12,7 @@
 * 0125 baekjoon 14501 퇴사 - dp
 * 0126 baekjoon 13458 시험 감독 - 연산
 * 0215 baekjoon 14503 로봇 청소기 - 구현
+* 0216 baekjoon 15686 치킨 배달 - dfs
 
 소프티어
 * 0131 softeer 개표 - 구현 (level1)
