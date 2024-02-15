@@ -6,9 +6,9 @@
 * 0115 programmers 폰켓몬
 
 백준
-* 0119 baekjoon 14889 스타트와 링크 - 백트래킹(dfs)
-* 0123 baekjoon 14888 연산자 끼워넣기 - 백트래킹(dfs)
-* 0125 baekjoon 14501 퇴사 - 백트래킹(dfs)
+* 0119 baekjoon 14889 스타트와 링크 - dfs
+* 0123 baekjoon 14888 연산자 끼워넣기 - dfs
+* 0125 baekjoon 14501 퇴사 - dfs
 * 0125 baekjoon 14501 퇴사 - dp
 * 0126 baekjoon 13458 시험 감독 - 연산
 * 0215 baekjoon 14503 로봇 청소기 - 구현
