@@ -52,5 +52,5 @@
 
 level 0에서 3점이다...! (신기)(방기)
 
-* 0214 / BAEKJOON / 🥈 I 2178 ***Graph Theory***
-* 0216 / BAEKJOON /
+* 0214 / BAEKJOON / 🥈 I 2178  ***Graph Theory***
+* 0216 / BAEKJOON /🥈 IV 1018  ***Bruteforcing***
