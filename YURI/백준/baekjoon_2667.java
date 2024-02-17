@@ -62,7 +62,7 @@ public class Main {
     }
 
     // 상하좌우를 확인하여 바로 옆에 있는 집을 방문하지 않았다면 표시.
-    public static void bfs(int c, int r) {
+    public static void dfs(int c, int r) {
         
         visited[c][r] = num;
         
