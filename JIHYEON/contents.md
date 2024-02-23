@@ -65,3 +65,4 @@
   * 0220 / PROGRAMMERS / 특별한 이차원 배열 2
   * 0221 / BAEKJOON / 🥇 V 14503 ***Simulation***
   * 0222 / PROGRAMMERS / 소인수분해
+  * 0223 / BAEKJOON / 🥈 IV 10828 ***Data Structures***
