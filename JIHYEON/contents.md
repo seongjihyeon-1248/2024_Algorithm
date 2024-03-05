@@ -73,4 +73,4 @@
   * 0229 / PROGRAMMERS / 배열의 유사도
 
 * 9 week
-  * 0305 / BAEKJOON / 🥇 IV N-Queen ***Bruteforcing***
+  * 0305 / BAEKJOON / 🥇 IV 9663 ***Bruteforcing***
