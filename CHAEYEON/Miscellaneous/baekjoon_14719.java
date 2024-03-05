@@ -1,12 +1,16 @@
+package Miscellaneous;
 import java.util.Scanner;
 
 class Main {
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int H = sc.nextInt();
-        int W = sc.nextInt();
-        int[] arr = new int[W];
+        final int W = sc.nextInt();
+        final int[] arr = new int[W];
         int answer = 0;
         for (int i = 0; i < W; i++) {
             arr[i] = sc.nextInt();
