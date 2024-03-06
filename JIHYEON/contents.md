@@ -74,3 +74,4 @@
 
 * 9 week
   * 0305 / BAEKJOON / 🥇 IV 9663 ***Bruteforcing***
+  * 0306 / PROGRAMMERS / 수 조작하기2
