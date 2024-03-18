@@ -1,7 +1,5 @@
 //https://www.acmicpc.net/problem/2839
 
-package JIHYEON.Dynimic_Programing;
-
 import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.io.IOException;
