@@ -87,4 +87,4 @@
 
 * 12 week
   * 0324 / PROGRAMMERS / 수 조작하기
-  * 0329 / BAEKJOON / 🥈 II 1541 ***Greedy***
+  * 0329 / BAEKJOON / 🥈 II 16953 ***Greedy***
