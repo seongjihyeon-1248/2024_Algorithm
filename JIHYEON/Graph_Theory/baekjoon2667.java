@@ -1,3 +1,4 @@
+//https://www.acmicpc.net/problem/2667
 package JIHYEON.Graph_Theory;
 
 import java.io.BufferedReader;
@@ -6,6 +7,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
+//dfs로 풀기
 class baekjoon2667{
     static int N;
     static int[][] n;
